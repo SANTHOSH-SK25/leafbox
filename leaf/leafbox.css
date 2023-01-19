@@ -1,0 +1,46 @@
+h1{
+padding-top: 100px;
+text-align: center;
+color: white;
+
+}
+
+body{
+	background-color:  #58D68D  ;
+}
+
+.d{
+
+	text-align: center;
+	background-color:#1E8449 ;
+	width: 350px;
+	height: 350px;
+	margin: auto;
+	border-radius: 10px;
+
+
+
+}
+
+
+ 
+
+ .sub{
+ 	
+text-align:center ;
+ }
+
+ input[type="text"]
+ {
+ 	margin-left: 20px;
+
+ }
+
+ input[type="password"]
+ {
+ 	margin-left: 40px;
+ }
+
+form{
+	padding-top: 140px;
+}

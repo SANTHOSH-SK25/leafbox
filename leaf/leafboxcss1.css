@@ -1,0 +1,40 @@
+h1{
+padding-top: 100px;
+text-align: center;
+color: white;
+
+}
+
+body{
+	background-color:  #1E8449 ;
+}
+
+.ach{
+	
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+
+}
+#about{
+	text-align:center;
+	
+}
+
+.careers2{
+	background-color: #58D68D;
+	
+	height: 300px;
+	width: 250px;
+
+
+	padding: 60px;
+	text-align: left;
+	padding-bottom: 300px;
+}
+
+
+
+#head{
+	padding-top: 10px;
+}
